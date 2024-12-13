@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-## Date:
+## Date:13/12/2024
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
@@ -50,6 +50,10 @@ web.html
         <input type="text" placeholder="search" id="search">
 
     </div>
+     <footer align="center" id="copywrite bg-color:pink">
+        Designed and developed by Ramya &copy 2024
+    </footer>
+
 
 </body>
 </html>
