@@ -525,7 +525,7 @@ administration.html
 
 
 ## OUTPUT:
-![alt text](<Screenshot (32).png>)
+![alt text](image.png)
 ![alt text](<Screenshot (33).png>)
 ![alt text](<Screenshot (34).png>)
 ![alt text](<Screenshot (35).png>)
