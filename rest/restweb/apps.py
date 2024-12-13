@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class RestappConfig(AppConfig):
+class RestwebConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'restapp'
+    name = 'restweb'
